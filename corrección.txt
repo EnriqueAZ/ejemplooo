@@ -1,0 +1,85 @@
+orden.
+
+1. comite.
+	- vista comite, llamar (solicitud a comite)
+	-relacion con 1 o varios aprendices (datos, id del programa)
+	-descripcion.
+	-anexos( documento con evidencias que se relacione con la descripcion) 
+	
+	
+2. citacion. 
+	-se genera y se envia a cada uno de los aprendices.
+
+3. se genera el acta.
+	-el subdirector se encarga de asumir el concepto.
+
+4. se genera el acto de comite.
+
+5. se puede generar la impugnacion. 
+--------------------------------------------------------------------->
+6. Ficha
+	- cambiar el nombre del campo que dice numero de progama de formacion.
+	(numero de ficha).
+	-fecha finalizacion de programa.
+	-asociar un gestor de grupo a la ficha. (instructor)
+	
+7. usuarios.
+	- 1 usuario puede tener muchos tipos de usuarios. 
+
+8. Aprendiz.
+	-campos practica y empresa (opcionales, checkbox)
+	-campo comite relacionado sobra. relacion al reves.
+
+9. condicionamiento M.
+	- debe estar agrupado con Acto administrativo.
+
+10. Acta comite.
+	
+	-falta la asociacion con comite 
+	-revisar todos los campos y relaciones.
+
+11. Evidencias.
+
+	-referenciarlo al comite.
+
+12. impugnaciones
+	
+	- el aprendiz no tiene acceso al sistema, ¿?a traves de quien se hace el proceso de impugnacion.
+	
+13. Novedades
+
+	- falta el campo ficha del aprendiz. 
+
+14. Faltas 
+
+	- revisar relaciones.
+
+15. llamados de atencion 
+
+	-ok
+
+16. estimulos
+
+	-revisar si es necesario en e sistema.
+
+17. Antecedentes. 
+
+	- deberia quedar descrito en el acta. 
+	- analizar si la tabla es necesaria o no.
+
+18. citacion.
+
+	- no debe tener relacion con acta de comite.
+
+19. plan de mejoramiento.
+
+	-el plan de mejoramiento es un elemento fisico (opcional).
+	-quitar evidencias no presentadas de la tabla plan de mejoramiento.
+
+
+
+	
+
+
+	
+ 
